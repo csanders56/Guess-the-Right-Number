@@ -7,7 +7,7 @@ guess = int(input("Guess a number between 1-20: "))
 number = random.randint(1, 21)
 
 
-
+# use  while loop
 while number != "guess":
   
   
